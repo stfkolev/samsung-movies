@@ -6,6 +6,10 @@ Average load time: `8 milliseconds`
 
 Built as practice for Samsung Smart TV SDK progressive application
 
+## Demonstration
+
+You can see the demostration in [Heroku](https://samsung-movies.herokuapp.com/)
+
 ## Getting Started
 
 1. Create a copy of `.env.sample` and rename to `.env`
